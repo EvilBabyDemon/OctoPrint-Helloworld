@@ -24,5 +24,6 @@ Don't think so?
 Under Settings -> Plugins -> Name of this Plugin: You can set the link, name and the colour.
 
 
-Why is this plugin called HelloWorld?
+## Why is this plugin called HelloWorld?
+
 Well I stole the HelloWorld plugin and am too lazy to rename at this point. And quite frankly I am unsure how.
