@@ -10,7 +10,7 @@ Kinda stole the hello world plugin tutorial and just changed a few things to hav
 Install via the bundled [Plugin Manager](https://docs.octoprint.org/en/master/bundledplugins/pluginmanager.html)
 or manually using this URL:
 
-    https://github.com/EvilBabyDemon/OctoPrint-Helloworld/archive/master.zip
+    https://github.com/EvilBabyDemon/OctoPrint-Helloworld/archive/main.zip
 
 **TODO:** Describe how to install your plugin, if more needs to be done than just installing it via pip or through
 the plugin manager.
