@@ -10,7 +10,7 @@ class HelloWorldPlugin(octoprint.plugin.StartupPlugin,
         self._logger.info("Hello World!")
 
     def get_settings_defaults(self):
-        return dict(url="https://en.wikipedia.org/", text="Text", colour="#FFFFFF", url2="https://en.wikipedia.org/", text2="Text2", colour2="#FFFFFF")
+        return dict(url="https://en.wikipedia.org/", text="Text", colour="color: \#FFFFFF", url2="https://en.wikipedia.org/", text2="Text2", colour2="color: \#FFFFFF")
 
 
     def get_template_configs(self):
