@@ -27,3 +27,17 @@ Under Settings -> Plugins -> Name of this Plugin: You can set the link, name and
 ## Why is this plugin called HelloWorld?
 
 Well I stole the HelloWorld plugin and am too lazy to rename at this point. And quite frankly I am unsure how.
+
+
+## What is not just tutorial?
+
+Things I actually changed:
+
+__init__.py
+- Added more default entries.
+
+helloworld_navbar.jinja2 
+- Changed it to make it possible to change colour and also text
+
+helloworld_settings.jinja2
+- Added more fields for colour and text and also a 2nd link
